@@ -2,18 +2,26 @@
 A simple project to host online library.
 
 It provides below functionalities:
+
+
 Account Management System
   1. Register a new account
   2. Login to an existing account
+
+
 Book Management System
   1. Add a new book
   2. Add a book copy
   3. Update an existing book
   4. Update an existing book copy
+
+
 Book Lending System
   1. Issue a book to a member
   2. Return a book
   3. Fetch books issued by a member
+
+
 Catalogue System
   1. Fetch all books
   2. Fetch books by title
